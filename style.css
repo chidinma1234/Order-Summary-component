@@ -138,7 +138,7 @@ button{
 .container{
     background-color:#fff;
     margin: 20px;
-    border-radius: 10px;
+    border-radius: 10px 10px 10px 10px;
     box-shadow: 3px 3px 3px hsl(228,45%,44%,0.15);
     }
     
