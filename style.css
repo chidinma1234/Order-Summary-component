@@ -32,13 +32,11 @@ img{
     max-width: 100%;
 }
 
-.container{
-    border-radius: 10px 10px 10px 10px;}
 /* to style the image to fit into the container */
 .container img.hero{
     width: 100%;
     border-radius: 10px 10px 0 0;
-    overflow:hidden;
+    
 }
 .container h2{
     color: hsl(223, 47%, 23%);
@@ -140,7 +138,7 @@ button{
 .container{
     background-color:#fff;
     margin: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 3px 3px 3px hsl(228,45%,44%,0.15);
     }
     
