@@ -31,10 +31,14 @@ body{
 img{
     max-width: 100%;
 }
+
+.container{
+    border-radius: 10px 10px 10px 10px;}
 /* to style the image to fit into the container */
 .container img.hero{
     width: 100%;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 0 0;
+    overflow:hidden;
 }
 .container h2{
     color: hsl(223, 47%, 23%);
