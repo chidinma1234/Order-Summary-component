@@ -38,7 +38,7 @@ img{
     border-radius: 10px 10px 0 0;
     
 }
-.container h2{
+.container h1{
     color: hsl(223, 47%, 23%);
     margin: 10px 0;
 }
@@ -52,7 +52,10 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-between;}
-/* to style the music icon and the h4 */
+    
+    h2{
+    font-size:18px;}
+/* to style the music icon and the h2 */
 .container .pricing article{
     display: flex;
     align-items: center;
